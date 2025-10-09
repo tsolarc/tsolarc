@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **Groovy on Grails**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sunndae](https://github.com/sunndae)
+- 👨‍💻 All of my projects are available at [https://github.com/tsolar](https://github.com/tsolar)
 
 - 📫 How to reach me **tomassolar478@gmail.com**
 
