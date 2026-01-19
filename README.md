@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tomassolar478@gmail.com**
 
-- 📄 Know about my experiences [in/tomas-solar](https://www.linkedin.com/in/tomas-solar/)
+- 📄 Know about my experiences [My linkedin](https://www.linkedin.com/in/tomas-solar/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunndae&label=Profile%20views&color=0e75b6&style=flat" alt="sunndae" /> </p>
 <h3 align="left">Connect with me:</h3>
