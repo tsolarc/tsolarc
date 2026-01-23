@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working with **Groovy on Grails and Ruby on Rails**
 
-- I’m a founder engineer at [Beatmap](web.beatmap.cl)
+- I’m a founder engineer at [Beatmap](https://web.beatmap.cl/)
 
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/tsolarc)
 
