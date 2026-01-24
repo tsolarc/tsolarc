@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomás Solar</h1>
+<h1 align="center">Hi ✌🏻, I'm Tomás Solar</h1>
 <h3 align="center">A Software Engineer from Chile 🇨🇱</h3>
 
 - 🔭 I’m currently working at **[Buk - Human Resources Software](https://www.buk.cl/)**
